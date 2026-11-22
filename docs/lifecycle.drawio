@@ -1,0 +1,83 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="IVKENFLvaP6-vNkS0M4P">
+    <mxGraphModel dx="1022" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EUWlthxFp5bX3ksTng1E-22" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="EUWlthxFp5bX3ksTng1E-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-25" connectable="0" parent="EUWlthxFp5bX3ksTng1E-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Курьер подтвердил" vertex="1">
+          <mxGeometry relative="1" x="0.6226" y="-3" as="geometry">
+            <mxPoint x="77" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-23" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="EUWlthxFp5bX3ksTng1E-4" value="Если заказ отменен">
+          <mxGeometry relative="1" x="0.2174" y="-10" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="В пути" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-17" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="EUWlthxFp5bX3ksTng1E-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-24" connectable="0" parent="EUWlthxFp5bX3ksTng1E-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Если блюда готовы" vertex="1">
+          <mxGeometry relative="1" x="-0.52" y="-2" as="geometry">
+            <mxPoint x="12" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-18" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" target="EUWlthxFp5bX3ksTng1E-4" value="Если заказ отменен">
+          <mxGeometry relative="1" x="0.6667" y="15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Готовится" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Доставлен" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Отменен" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-15" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;align=center;" target="EUWlthxFp5bX3ksTng1E-2" value="Если все блюда в наличии">
+          <mxGeometry relative="1" x="0.1111" y="15" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-16" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="EUWlthxFp5bX3ksTng1E-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-27" connectable="0" parent="EUWlthxFp5bX3ksTng1E-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;rotation=90;" value="Если заказ отменен" vertex="1">
+          <mxGeometry relative="1" x="-0.4167" as="geometry">
+            <mxPoint x="10" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Новый" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-19" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.053;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="EUWlthxFp5bX3ksTng1E-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-26" connectable="0" parent="EUWlthxFp5bX3ksTng1E-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;rotation=90;" value="Если назначен курьер" vertex="1">
+          <mxGeometry relative="1" x="-0.8183" as="geometry">
+            <mxPoint x="20" y="37" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-20" edge="1" parent="1" source="EUWlthxFp5bX3ksTng1E-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="EUWlthxFp5bX3ksTng1E-4">
+          <mxGeometry relative="1" x="-0.3667" as="geometry" />
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-28" connectable="0" parent="EUWlthxFp5bX3ksTng1E-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Если заказ отменен" vertex="1">
+          <mxGeometry relative="1" x="0.6" as="geometry">
+            <mxPoint y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EUWlthxFp5bX3ksTng1E-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Готов к доставке" vertex="1">
+          <mxGeometry height="60" width="120" x="600" y="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
