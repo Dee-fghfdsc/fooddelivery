@@ -1,2 +1,15 @@
 bin/
 obj/
+#ServiceDesk 
+# файл базы данных SQLite и его служебные файлы
+*.db
+*.db-shm
+*.db-wal
+# журналы и результаты тестов
+logs/
+TestResults/
+coveragereport/
+# результаты замеров BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+# публикация
+publish/
