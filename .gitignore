@@ -5,6 +5,7 @@ obj/
 *.db
 *.db-shm
 *.db-wal
+*.vs/
 # журналы и результаты тестов
 logs/
 TestResults/
