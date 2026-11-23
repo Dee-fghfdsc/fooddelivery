@@ -17,7 +17,7 @@ C#, .NET 10, ASP.NET Core Web API, Entity Framework Core + SQLite, WPF, xUnit.
 - Ветка `main` — только стабильные релизы.
 - Ветка `develop` — интеграционная ветка для разработки.
 - Для каждой задачи создается ветка `feature/<номер>-<название>`.
-- Слияние в develop происходит только через Pull Request.
+- Слияние в develop происходит только через Pull Request..
 
 
 
