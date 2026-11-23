@@ -70,3 +70,5 @@ Content-Type: application/json
 - CSV (UTF-8 с BOM, чтобы Excel правильно открыл кириллицу; разделитель «;»; стоимость с точкой).
 - JSON (массив объектов).
 - XML (корень <Orders>, элементы <Order id="...">).
+
+Код 429: Too Many Requests
